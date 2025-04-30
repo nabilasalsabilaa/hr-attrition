@@ -1,4 +1,4 @@
-# Proyek Pertama: Menyelesaikan Permasalahan Human Resources
+# Proyek Menyelesaikan Permasalahan Human Resources
 
 ## Business Understanding
 
@@ -24,7 +24,7 @@ Sumber data: [employee_data.csv](https://github.com/dicodingacademy/dicoding_dat
 
 Setup environment - Google Colaboratory:
 - Buka Google Colab: https://colab.research.google.com/
-- Upload file notebook: [Proyek_Pertama_Nabila_Salsabila.ipynb](https://colab.research.google.com/drive/1re1ts79ReW9FSZCo7yQYTaXXguz-E6xV?usp=sharing)
+- Upload file notebook: [HR_Attrition_Project.ipynb](https://colab.research.google.com/drive/1re1ts79ReW9FSZCo7yQYTaXXguz-E6xV?usp=sharing)
 - Install library tambahan jika diperlukan:
 - Upload Dataset
 -- Klik ikon folder di sisi kiri Google Colaboratory
